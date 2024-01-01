@@ -7,7 +7,7 @@ $send = false;
 
 if( isset( $_POST['submit'] ) ) {
 
-	if($_POST['spamq'] == '2023' || $_POST['spamq'] == '23')
+	if($_POST['spamq'] == '2024' || $_POST['spamq'] == '24')
 	{
 
 		$data = '';

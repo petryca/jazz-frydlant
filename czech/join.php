@@ -8,61 +8,62 @@ include( 'menu.php' );
 
 <div id="content">
 
-<p>před vyplněním přihlášky na 40. Letní jazzovou dílnu Karla Velebného 2023 věnujte, prosím, pečlivou pozornost následujícím pokynům:</p>
+<p>před vyplněním přihlášky na <b>41. Letní jazzovou dílnu Karla Velebného 2024</b> věnujte, prosím, pečlivou pozornost následujícím pokynům:</p>
 
-<h3>1. Svou účast potvrďte zasláním vyplněné on-line přihlášky nejpozději do 1. 6. 2023.</h3>
+<h3>1. Svou účast potvrďte zasláním vyplněné on-line přihlášky nejpozději do 1. 6. 2024.</h3>
 
 <p>Na přihlášce pečlivě označte způsob platby účastnického poplatku.</p>
 
 <h3>2. V případě, že požadujete ubytování, označte zřetelně, ve kterém ubytovacím zařízení si přejete bydlet. Můžete si vybrat z následujících možností:</h3>
 
 <ol type="a">
-<li>Internát Střední školy hospodářské a lesnické  u zámku (95 lůžek) - cena 270 Kč/ noc</li>
-<li>Sportovní ubytovna na stadionu (16 lůžek) - cena 120 Kč/ noc</li>
-<li>Restaurace Beseda (11 lůžek - 5 + 3 + 3) - cena 200 Kč/ noc</li>
-<li>Ubytovna Slovanka (8 lůžek 2+3+3) - cena 200 Kč/ noc</li>
-<li>Pension Albrechtova vyhlídka - POZOR!!! Rezervaci je nutno dohodnout přímo s majitelkou penzionu paní Michalkovou - tel. 731 489 574, e-mail: albrechtovavyhlidka@gmail.com . (Website www.albrechtova-vyhlidka.cz). Poplatek za ubytování uhradíte přímo v penzionu, a proto zaškrtněte v přihlášce „ubytování nepotřebuji“.</li>
+<i>Internát Střední školy hospodářské a lesnické  u zámku (95 lůžek) – cena 320 Kč/ noc</i>
+<i>Restaurace Beseda (11 lůžek – 5 + 3 + 3) – cena 250 Kč/ noc</i>
+<i>Ubytovna Slovanka (8 lůžek 2+3+3) – cena 300 Kč/ noc</i>
+<i>Základní škola Bělíkova (20 lůžek – 5 + 5 + 5 + 5) – cena 150 Kč/ noc</i>
+<i>Pension Albrechtova vyhlídka – POZOR!!! Rezervaci je nutno dohodnout přímo s majitelkou penzionu paní Michalkovou – tel. 731 489 574, e-mail: albrechtovavyhlidka@gmail.com . (Website www.albrechtova-vyhlidka.cz). Poplatek za ubytování uhradíte přímo v penzionu, a proto zaškrtněte v přihlášce „ubytování nepotřebuji“.</i>
 </ol>
 
 <p>Rezervace noclehů se řídí zásadou „kdo dřív přijde, ten dřív bydlí“. V případě vyčerpání ubytovací kapacity v požadovaném zařízení budeme zájemce o této skutečnosti informovat.</p>
 
-<h3>3. Výše účastnických poplatků:</h3>
+<h3>3. Výše účastnických poplatků</h3>
+
 
 <ol type="a">
-<li>Kurzovné + ubytování v internátu u Zámku - 5.290,-Kč (do 1. června 2023).Po tomto termínu činí výše poplatku (kurzovné + ubytování) 5.890,- Kč</li>
-<li>Kurzovné + ubytování ve sportovní ubytovně na stadionu- 4.240,- Kč (do 1. června 2023). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 4.840,- Kč</li>
-<li>Kurzovné + ubytování v restauraci Beseda - 4.800,- Kč (do 1. června 2023). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 5.400,- Kč</li>
-<li>Kurzovné + ubytování v ubytovně Slovanka - 4.800,- Kč (do 1. června 2023). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 5.400,-  Kč</li>
-<li>Kurzovné bez nároku na ubytování (včetně ubytovaných v pensionu Albrechtova vyhlídka) - 3.400,- Kč (do 1. června 2023). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 4.000,- Kč</li>
+<li>Kurzovné + ubytování v internátu u Zámku – 6.190,-Kč (do 1. června 2024).Po tomto termínu činí výše poplatku (kurzovné + ubytování) 6.890,- Kč</li>
+<li>Kurzovné + ubytování v restauraci Beseda - 5.700,- Kč (do 1. června 2024). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 6.400,- Kč</li>
+<li>Kurzovné + ubytování v ubytovně Slovanka – 6.050,- Kč (do 1. června 2024). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 6.750,- Kč</li>
+<li>Kurzovné + ubytování v Základní škole Bělíkova – 5.000,- Kč (do 1. června 2024). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 5.700,- Kč</li>
+<li>Kurzovné bez nároku na ubytování (včetně ubytovaných v pensionu Albrechtova vyhlídka) – 3.950,- Kč (do 1. června 2024). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 4.650,- Kč</li>
 </ol>
 
-<h3>4. Způsob platby:</h3>
+<h3>4. Způsob platby</h3>
 
 <p>Občané ČR provedou úhradu složenkou nebo bezhotovostním převodem na účet AB Studio u Komerční banky č. 43-8760480277/0100. Jako variabilní symbol uveďte datum narození ve formě den, měsíc a rok (dd mm rr) a na přihlášce uveďte číslo Vašeho účtu, ze kterého bylo kursovné zaplaceno. Údaje pomohou při identifikaci plátce. UPOZORNĚNÍ! Občané ČR mohou uhradit účastnický poplatek v hotovosti POUZE po předchozí dohodě s organizátory!!! V poplatku není zahrnuto stravné, účastníci se stravují individuálně na vlastní náklady.</p>
 
-<p>Zahraniční účastníci, kteří závazně potvrdí účast, mohou uhradit účastnický poplatek v hotovosti při prezenci 12. srpna 2023.</p>
+<p>Zahraniční účastníci, kteří závazně potvrdí účast, mohou uhradit účastnický poplatek v hotovosti při prezenci 10. srpna 2024.</p>
 
-<h3>5. Stornopodmínky:</h3>
+<h3>5. Stornopodmínky</h3>
 
 <p>Pokud bude někdo nucen po zaplacení účastnického poplatku zrušit svou účast na LJD, bude mu navrácena částka:</p>
 
 <ol type="a">
-<li>v plné výši (pokud bude účast zrušena do 1. 7. 2023),</li>
-<li>z uhrazeného poplatku bude stržena částka za ubytování (pokud bude účast zrušena do 1. 8. 2023),</li> 
-<li>z uhrazeného poplatku bude navrácena částka ve výši 50% (pokud bude účast zrušena po datu 1. 8. 2023)</li>
+<li>v plné výši (pokud bude účast zrušena do 1. 7. 2024),</li> 
+<li>z uhrazeného poplatku bude stržena částka za ubytování (pokud bude účast zrušena do 1. 8. 2024),</li> 
+<li>z uhrazeného poplatku bude navrácena částka ve výši 50% (pokud bude účast zrušena po datu 1. 8. 2024)</li>
 </ol>
 
-<h3>6. Prezence účastníků:</h3>
+<h3>6. Prezence účastníků</h3>
 
-<p>40. LJD Karla Velebného 2023 proběhne v sobotu 12. srpna v sále restaurace Beseda od 15.00 do 20.00 hodin. Pro pozdní dojezdy bude v sále služba do 22.00 hodin, po této hodině hrozí opozdilcům nebezpečí, že v sobotu večer nebudou ubytováni!!!</p>
+<p>41. LJD Karla Velebného 2024 proběhne v sobotu 10. srpna v sále restaurace Beseda od 15.00 do 20.00 hodin. Pro pozdní dojezdy bude v sále služba do 22.00 hodin, po této hodině hrozí opozdilcům nebezpečí, že v sobotu večer nebudou ubytováni!!!</p>
 
-<p>Žádáme Vás, abyste si přivezli Vaše hudební nástroje a pomůcky, které budete v průběhu LJD potřebovat (např. fake book, studijní materiály a pultík). Zvláště upozorňujeme bubeníky, že pokud si nepřivezou nástroje, nebudou mít na co hrát ani ve třídě, ani ve skupinách. Totéž platí pro kytaristy a baskytaristy pokud jde o aparaturu. Zapůjčení bicí soupravy nebo aparatury nemůžeme zajistit. Pianisté se nemusí starat - v učebnách jsou nástroje připraveny.</p>
+<p>Žádáme Vás, abyste si přivezli Vaše hudební nástroje a pomůcky, které budete v průběhu LJD potřebovat (např. fake book, studijní materiály a pultík). Zvláště upozorňujeme bubeníky, že pokud si nepřivezou nástroje, nebudou mít na co hrát ani ve třídě, ani ve skupinách. Totéž platí pro kytaristy a baskytaristy pokud jde o aparaturu. Zapůjčení bicí soupravy nebo aparatury nemůžeme zajistit. Pro pianisty jsou nástroje připraveny v učebnách, kdo ale chce, může si přivézt vlastní klávesy.</p>
 
 <p>Dopolední výuka vokalistů bude probíhat ve stejném režimu jako v minulých letech, odpoledne budou zpěváci sólisty jednotlivých kapel. Od 16:00 hodin (v době big bandových zkoušek) bude Lee Andrew Davison lektorem vokální skupiny zaměřené na interpretaci spirituálů a gospel songů.</p>
 
 <p>Ve snaze racionalizovat nedělní rozdělování do souborů Vás žádáme, abyste se při sobotní prezenci předběžně zapsal(a) do kapely některého pedagoga a do jednoho ze dvou big bandů, a při zapisování uvážili, jestli chcete vystoupit ve čtvrtek nebo v pátek.</p>
 
-<p>Složení lektorského sboru: Josef Fečo (kontrabas) Zdeněk Fišer (kytara), Miroslav Hloucal (trubka), Štěpán Janoušek (trombon), Petr Kalfus (saxofony) František Krtička (klávesy), Pavel Razím (bicí nástroje), Jiří Stivín (flétny a improvizace), Milo Suchomel (saxofony), Jaroslav Šindler (kytara), Lubomír Šrámek (klávesy), Zdeněk "Wimpy" Tichota (basová kytara), Adam Tvrdý (kytara), Boris Urbánek (klávesy), Marek Urbánek (bicí nástroje), Veronika Vítová (vokál), Martin Zbrožek (housle), Lee Andrew Davison (vokál), Andy Schofield (saxofony), Neil Wetzel (saxofony a big bandy) a Skip Wilkins (vokál).</p> 
+<p>Složení lektorského sboru: Josef Fečo (kontrabas) Zdeněk Fišer (kytara), Miroslav Hloucal (trubka), Štěpán Janoušek (trombon), Petr Kalfus (saxofony) František Krtička (klávesy), Pavel Razím (bicí nástroje), Jiří Stivín (improvizace), Milo Suchomel (saxofony), Jaroslav Šindler (kytara), Lubomír Šrámek (klávesy), Zdeněk "Wimpy" Tichota (basová kytara), Adam Tvrdý (kytara), Boris Urbánek (klávesy), Marek Urbánek (bicí nástroje), Veronika Vítová (vokál), Martin Zbrožek (housle), Lee Andrew Davison (vokál), Andy Schofield (saxofony), Neil Wetzel (saxofony a big bandy) a Skip Wilkins (vokál).</p>
 
 <h4>Schéma denního rozvrhu je přibližně následující:</h4>
 
@@ -78,9 +79,9 @@ include( 'menu.php' );
 <li>20.00 - 23.00 jam session</li>
 </ul>
 
-<p>Ve středu 16. srpna se koná na nádvoří zámku Koncert lektorů, ve čtvrtek a v pátek v sále restaurace Beseda a v kostele Nalezení svatého Kříže závěrečné koncerty účastníků 40. LJD 2023.</p>
+<p>Ve středu 14. srpna se koná na náměstí Koncert lektorů, ve čtvrtek a v pátek v sále restaurace Beseda a v kostele Nalezení svatého Kříže závěrečné koncerty účastníků 41. LJD 2024.</p>
 
-<p>Vyplněnou přihlášku zašlete a účastnický poplatek uhraďte do 1. června 2023! Pokud se nedohodnete na výjimce, budou po tomto datu na Vaše místo zařazeni náhradníci. Nezapomeňte uvést datum zaplacení účastnického příspěvku, případně upozornit na datum Vašeho příjezdu do Frýdlantu (pokud přijedete jindy než 13. srpna).</p>
+<p>Vyplněnou přihlášku zašlete a účastnický poplatek uhraďte do 1. června 2024! Pokud se nedohodnete na výjimce, budou po tomto datu na Vaše místo zařazeni náhradníci. Nezapomeňte uvést datum zaplacení účastnického příspěvku, případně upozornit na datum Vašeho příjezdu do Frýdlantu (pokud přijedete jindy než 10. srpna).</p>
 
 </div>
 

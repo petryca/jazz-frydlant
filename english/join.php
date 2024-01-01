@@ -8,23 +8,23 @@ include( 'menu.php' );
 
 <div id="content">
 
-<p>Should you be interested in this year's 40th Karel Velebný Summer Jazz Workshop 2023, please find here below basic information along with the application form.</p>
+<p>Should you be interested in this year’s 41st Karel Velebný Summer Jazz Workshop 2024, please find here below basic information along with the application form.</p>
 
-<p>1. Please, confirm your participation by sending us the filled in form on-line by June 1, 2023.</p>
+<p>1. Please, confirm your participation by sending us the filled in form on-line by June 1, 2024.</p> 
 
-<p>2. The registration of the participants of the workshop will take place on Saturday, August 12th from 3 p.m. to 8 p.m. at the BESEDA restaurant in Frýdlant.</p>
+<p>2. The registration of the participants of the workshop will take place on Saturday, August 10th from 3 p.m. to 8 p.m. at the BESEDA restaurant in Frýdlant.</p>
 
-<p>3. The early-bird registration fee is 5.290,- CZK (accommodation in secondary school dormitory included) or 3.400,- CZK (no accommodation). Also, for those who wish to stay at the Albrechtova vyhlídka pension, please book your accommodation directly and as soon as possible with Mrs. Michalková, phone l. 00420 731 489 574, e-mail: albrechtovavyhlidka@gmail.com . For more information visit www.albrechtova-vyhlidka.cz. When booked, please check “no accommodation” in the application form. Applications received after June 1, 2023 will warrant a full fee of 5.890,- CZK (accommodation in secondary school dormitory included) or 4.000,-,- CZK (Albrechtova vyhlídka pension or without accommodation).</p>
+<p>3. The early-bird registration fee is 6.190,- CZK (accommodation in secondary school dormitory included) or 3.950,- CZK (no accommodation). Also, for those who wish to stay at the Albrechtova vyhlídka pension, please book your accommodation directly and as soon as possible with Mrs. Michalková, phone l. 00420 731 489 574, e-mail: albrechtovavyhlidka@gmail.com . For more information visit www.albrechtova-vyhlidka.cz. When booked, please check “no accommodation” in the application form. Applications received after June 1, 2024 will warrant a full fee of 6.890,- CZK (accommodation in secondary school dormitory included) or 4.650,-,- CZK (Albrechtova vyhlídka pension or without accommodation).</p>
 
-<p>Foreign participants may pay on their arrival to Frýdlant. In order to benefit from the early-bird their participation should be confirmed at the below-given e-mail by June 1, 2023.</p>
+<p>Foreign participants may pay on their arrival to Frýdlant. In order to benefit from the early-bird their participation should be confirmed at the below-given e-mail by June 1, 2024.</p>
 
-<p>4. Important!!! The number of places is limited. Please make your bookings as soon as possible, applications will be registered within the limit of free places in the order in which they are received.</p>
+<p>4. Important!!! The number of places is limited. Please make your bookings as soon as possible; applications will be registered within the limit of free places in the order in which they are received.</p>
 
 <p>5. Please, bring your instruments and learning tools necessary for your training (e.g. fake-books, scores and music stand).</p>
 
-<p>6. A large part of the schedule is devoted to playing in bands. To avoid chaos during the Sunday repartition into groups, you will be asked to preliminarily sign up for a group of to one of the tutors' class on registration.</p>
+<p>6. A large part of the schedule is devoted to playing in bands. To avoid chaos during the Sunday repartition into groups, you will be asked to preliminarily sign up for a group of to one of the tutors’ class on registration.</p>
 
-<p>7. The tutors setup for this year's edition will most likely be the following: Josef Fečo (bass) Zdeněk Fišer (guitar), Miroslav Hloucal (trumpet), Štěpán Janoušek (trombone), Petr Kalfus (saxes) František Krtička (keyboards), Pavel Razím (drums), Jiří Stivín (flutes), Milo Suchomel (saxes), Jaroslav Šindler (guitar), Lubomír Šrámek (keyboards), Zdeněk "Wimpy" Tichota (bassguitar), Adam Tvrdý (guitar), Boris Urbánek (keyboards), Marek Urbánek (drums), Veronika Vítová (vocal) and Martin Zbrožek (violin). Of the Anglosaxon tutors, Lee Andrew Davison (vocal), Andy Schofield (saxes), Neil Wetzel (saxes and big band) and Skip Wilkins (vocal) will attend.</p>
+<p>7. The tutors setup for this year’s edition will most likely be the following: Josef Fečo (bass) Zdeněk Fišer (guitar), Miroslav Hloucal (trumpet), Štěpán Janoušek (trombone), Petr Kalfus (saxes) František Krtička (keyboards), Pavel Razím (drums), Jiří Stivín (improvisation), Milo Suchomel (saxes), Jaroslav Šindler (guitar), Lubomír Šrámek (keyboards), Zdeněk "Wimpy" Tichota (bassguitar), Adam Tvrdý (guitar), Boris Urbánek (keyboards), Marek Urbánek (drums), Veronika Vítová (vocal) and Martin Zbrožek (violin). Of the Anglosaxon tutors, Lee Andrew Davison (vocal), Andy Schofield (saxes), Neil Wetzel (saxes and big band) and Skip Wilkins (vocal) will attend.</p>
 
 <h4>Daily timetable:</h4>
 
@@ -39,7 +39,7 @@ include( 'menu.php' );
   <li>20.00-23.00 jam session</li>
 </ul>
 
-<p><b>Please register on-line by 1st of June, 2023 latest!</b></p>
+<p><b>Please register on-line no later than 1st of June, 2024!</b></p>
 
 </div>
 
