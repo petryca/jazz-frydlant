@@ -8,7 +8,7 @@ include( 'menu.php' );
 
 <div id="content">
 
-<p>The 41st annual Karel Velebný Summer Jazz Workshop will take place in Frýdlant from 10th to 17th August 2023. In 1983, the committee of the Czech Jazz Society decided to organize summer performing courses; Aleš Benda and Karel Velebný were the ones in charge of the project they conceived, brought to life and baptized as the Summer Jazz Workshop. The seminar threw anchor and made itself at home in Frýdlant thanks to Radek Jech, the local flute player and vocalist and Vladimír Hrdina, the Head of the Frýdlant music school.</p>
+<p>The 41st annual Karel Velebný Summer Jazz Workshop will take place in Frýdlant from 10th to 17th August 2024. In 1983, the committee of the Czech Jazz Society decided to organize summer performing courses; Aleš Benda and Karel Velebný were the ones in charge of the project they conceived, brought to life and baptized as the Summer Jazz Workshop. The seminar threw anchor and made itself at home in Frýdlant thanks to Radek Jech, the local flute player and vocalist and Vladimír Hrdina, the Head of the Frýdlant music school.</p>
 
 <p>Vibraphonist, saxophonist, pianist, singer, actor, writer, pedagogue, sportsman body and soul (from time to time…), discoverer, and erudite popularizer of works of Jára da Cimrman, Dr. Evžen Hedvábný aka Karel Velebný was at the origins not only of the basic method but before all of the spirit of the one-week performing seminar. The tutors and participants of the Summer Jazz Workshop have always gladly and without objections succumbed to its magic.</p>
 
