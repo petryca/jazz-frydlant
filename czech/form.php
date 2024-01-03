@@ -91,7 +91,6 @@ ne<input type="radio" name="band" value="ne" /></td>
 <td class="label">Ubytování požaduji:</td>
 <td>
 <input type="radio" name="hotel" value="Internat-u-Zámku"> Internát u Zámku<br />
-<input type="radio" name="hotel" value="Sportovní-ubytovna"> Sportovní ubytovna u stadionu<br />
 <input type="radio" name="hotel" value="Restaurace-Beseda"> Restaurace Beseda<br />
 <input type="radio" name="hotel" value="Ubytovna-Slovanka"> Ubytovna Slovanka<br />
 <input type="radio" name="hotel" value="Ubytování-nepotřebuji"> ubytování nepotřebuji
