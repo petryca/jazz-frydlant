@@ -89,7 +89,9 @@ include( 'menu.php' );
 <li><a href="form.php">Vyplňte a zašlete přihlášku on-line</a></li>
 </ul>
 
-<p>Záštitu nad 40 Letní jazzovou dílnou Karla Velebného převzal: Ing Dan Ramzer, starosta Města Frýdlant.</p>
+<p>Záštitu nad 41. Letní jazzovou dílnou Karla Velebného převzali:<br>
+Mgr. Martin Baxa, ministr kultury ČR<br>
+a Ing Dan Ramzer, starosta Města Frýdlant</p>
 
 <p>Seminář finančně podpořili Město Frýdlant, Ministerstvo kultury ČR, Liberecký kraj, Partnerství OSA, Nadace ČHF, RENOMIA a.s. a Premedis. Partnerem 40. LJD je C. BECHSTEIN Europe s.r.o.</p>
 

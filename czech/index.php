@@ -29,7 +29,9 @@ include( 'menu.php' );
 <p>Čtyřicátý první ročník Letní jazzové díly Karla Velebného, organizačně opět zajišťuje Aleš Benda mobil 739 210 263, e-mail: abstudio@seznam.cz, nejvýznamnějšími frýdlantskými partnery jsou Město Frýdlant, Základní umělecká škola Frýdlant (ředitel Vladimír Hrdina – tel. 482 312 132) a Kulturní sdružení Frýdlant.</p>
 </div>
 
-<p>Záštitu nad 41. Letní jazzovou dílnou Karla Velebného převzal: Ing Dan Ramzer, starosta Města Frýdlant.</p>
+<p>Záštitu nad 41. Letní jazzovou dílnou Karla Velebného převzali:<br>
+Mgr. Martin Baxa, ministr kultury ČR<br>
+a Ing Dan Ramzer, starosta Města Frýdlant</p>
 
 <p>Seminář finančně podpořili Město Frýdlant, Ministerstvo kultury ČR, Liberecký kraj, Partnerství OSA, Nadace ČHF, RENOMIA a.s. a Premedis. Partnerem 41. LJD je C. BECHSTEIN Europe s.r.o.</p>
 
