@@ -7,7 +7,7 @@ $send = false;
 
 if( isset( $_POST['submit'] ) ) {
 
-	if($_POST['spamq'] == '2024' || $_POST['spamq'] == '24')
+	if($_POST['spamq'] == '2025' || $_POST['spamq'] == '25')
 	{
 
 		$data = '';
@@ -90,9 +90,11 @@ ne<input type="radio" name="band" value="ne" /></td>
 <tr>
 <td class="label">Ubytování požaduji:</td>
 <td>
-<input type="radio" name="hotel" value="Internat-u-Zámku"> Internát u Zámku<br />
+<input type="radio" name="hotel" value="Sportovní-ubytovna-HC-Frýdlant"> Sportovní ubytovna HC Frýdlant<br />
 <input type="radio" name="hotel" value="Restaurace-Beseda"> Restaurace Beseda<br />
 <input type="radio" name="hotel" value="Ubytovna-Slovanka"> Ubytovna Slovanka<br />
+<input type="radio" name="hotel" value="Základní-škola-Bělíkova"> Základní škola Bělíkova<br />
+<input type="radio" name="hotel" value="Sokolovna"> Sokolovna<br />
 <input type="radio" name="hotel" value="Ubytování-nepotřebuji"> ubytování nepotřebuji
 </td>
 </tr>
@@ -111,7 +113,6 @@ ne<input type="radio" name="smoke" value="ne" /></td>
 <tr>
 <td class="label">Kursovné uhradím:</td>
 <td>
-<input type="radio" name="payment-type" value="složenkou"> složenkou<br />
 <input type="radio" name="payment-type" value="převodem"> převodem z účtu<br />
 <input type="radio" name="payment-type" value="v-hotovosti"> v hotovosti (občané ČR POUZE pouze po předchozí dohodě)
 </td>

@@ -8,58 +8,61 @@ include( 'menu.php' );
 
 <div id="content">
 
-<p>před vyplněním přihlášky na <b>41. Letní jazzovou dílnu Karla Velebného 2024</b> věnujte, prosím, pečlivou pozornost následujícím pokynům:</p>
+<p>před vyplněním přihlášky na <b>42. Letní jazzovou dílnu Karla Velebného 2025</b> věnujte, prosím, pečlivou pozornost následujícím pokynům:</p>
 
-<h3>1. Svou účast potvrďte zasláním vyplněné on-line přihlášky nejpozději do 1. 6. 2024.</h3>
+<h3>1. Svou účast potvrďte zasláním vyplněné on-line přihlášky nejpozději do 1. 6. 2025.</h3>
 
 <p>Na přihlášce pečlivě označte způsob platby účastnického poplatku.</p>
 
 <h3>2. V případě, že požadujete ubytování, označte zřetelně, ve kterém ubytovacím zařízení si přejete bydlet. Můžete si vybrat z následujících možností:</h3>
 
 <ol type="a">
-<i>Internát Střední školy hospodářské a lesnické  u zámku (95 lůžek) – cena 320 Kč/ noc</i>
-<i>Restaurace Beseda (11 lůžek – 5 + 3 + 3) – cena 250 Kč/ noc</i>
-<i>Ubytovna Slovanka (8 lůžek 2+3+3) – cena 300 Kč/ noc</i>
-<i>Základní škola Bělíkova (20 lůžek – 5 + 5 + 5 + 5) – cena 150 Kč/ noc</i>
-<i>Pension Albrechtova vyhlídka – POZOR!!! Rezervaci je nutno dohodnout přímo s majitelkou penzionu paní Michalkovou – tel. 731 489 574, e-mail: albrechtovavyhlidka@gmail.com . (Website www.albrechtova-vyhlidka.cz). Poplatek za ubytování uhradíte přímo v penzionu, a proto zaškrtněte v přihlášce „ubytování nepotřebuji“.</i>
+
+
+<li><b>Sportovní ubytovna HC Frýdlant</b> (70 lůžek) – cena 100 Kč/ noc
+<li><b>Restaurace Beseda</b> (11 lůžek – 5 + 3 + 3) – cena 250 Kč/ noc
+<li><b>Ubytovna Slovanka</b> (16 lůžek 2+3+3+4+4) – cena 300 Kč/ noc
+<li><b>Základní škola Bělíkova</b> (16 lůžek – 4 + 4 +4 + 4) – cena 150 Kč/ noc
+<li><b>Sokolovna Frýdlant</b> (11 lůžek – 4+4+3) - – cena 150 Kč/ noc
+<li><b>Pension Albrechtova vyhlídka</b> – POZOR!!! Rezervaci je nutno dohodnout přímo s majitelkou penzionu paní Michalkovou – tel. 731 489 574, e-mail: albrechtovavyhlidka@gmail.com . (Website www.albrechtova-vyhlidka.cz). Poplatek za ubytování uhradíte přímo v penzionu, a proto zaškrtněte v přihlášce „ubytování nepotřebuji“.
+<li><b>Autokemp Frýdlant</b> - ubytování stany, obytné automobily a karavany – rezervaci nutno dohodnout přímo (tel. 724 170 559, E-mail: autokempfrydlant@gmail.com) 
+<li><b>Kempink Raspenava</b> - rezervaci nutno dohodnout přímo (tel. 604 275 322, e-mail: kemp.smeda@raspenava.cz)
 </ol>
-
 <p>Rezervace noclehů se řídí zásadou „kdo dřív přijde, ten dřív bydlí“. V případě vyčerpání ubytovací kapacity v požadovaném zařízení budeme zájemce o této skutečnosti informovat.</p>
-
 <h3>3. Výše účastnických poplatků</h3>
 
-
 <ol type="a">
-<li>Kurzovné + ubytování v internátu u Zámku – 6.190,-Kč (do 1. června 2024).Po tomto termínu činí výše poplatku (kurzovné + ubytování) 6.890,- Kč</li>
-<li>Kurzovné + ubytování v restauraci Beseda - 5.700,- Kč (do 1. června 2024). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 6.400,- Kč</li>
-<li>Kurzovné + ubytování v ubytovně Slovanka – 6.050,- Kč (do 1. června 2024). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 6.750,- Kč</li>
-<li>Kurzovné + ubytování v Základní škole Bělíkova – 5.000,- Kč (do 1. června 2024). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 5.700,- Kč</li>
-<li>Kurzovné bez nároku na ubytování (včetně ubytovaných v pensionu Albrechtova vyhlídka) – 3.950,- Kč (do 1. června 2024). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 4.650,- Kč</li>
+
+<li><b>Kurzovné + ubytování ve Sportovní ubytovně HC Frýdlant</b> – 4.900,-Kč (do 1. června 2025).Po tomto termínu činí výše poplatku (kurzovné + ubytování) 5.600,- Kč
+<li><b>Kurzovné + ubytování v restauraci Beseda</b> - 5.950,- Kč (do 1. června 2025). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 6.650,- Kč
+<li><b>Kurzovné + ubytování v ubytovně Slovanka</b> – 6.300,- Kč (do 1. června 2025). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 7.000,-  Kč
+<li><b>Kurzovné + ubytování v Základní škole Bělíkova a v Sokolovně</b> – 5.250,- Kč (do 1. června 2025). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 5.950,-  Kč
+<li><b>Kurzovné bez nároku na ubytování</b> (včetně ubytovaných v pensionu Albrechtova vyhlídka a dalších ubytovacích zařízeních rezervovaných přímo) – 4.200,- Kč (do 1. června 2025). Po tomto termínu činí výše poplatku (kurzovné + ubytování) 4.900,- Kč
 </ol>
 
 <h3>4. Způsob platby</h3>
 
-<p>Občané ČR provedou úhradu složenkou nebo bezhotovostním převodem na účet AB Studio u Komerční banky č. 43-8760480277/0100. Jako variabilní symbol uveďte datum narození ve formě den, měsíc a rok (dd mm rr) a na přihlášce uveďte číslo Vašeho účtu, ze kterého bylo kursovné zaplaceno. Údaje pomohou při identifikaci plátce. UPOZORNĚNÍ! Občané ČR mohou uhradit účastnický poplatek v hotovosti POUZE po předchozí dohodě s organizátory!!! V poplatku není zahrnuto stravné, účastníci se stravují individuálně na vlastní náklady.</p>
+<p>Občané ČR provedou úhradu složenkou nebo bezhotovostním převodem na účet AB Studio u Komerční banky č. <b>43-8760480277/0100</b>. Jako variabilní symbol uveďte datum narození ve formě den, měsíc a rok (dd mm rr) a na přihlášce uveďte číslo Vašeho účtu, ze kterého bylo kursovné zaplaceno. Údaje pomohou při identifikaci plátce. UPOZORNĚNÍ! Občané ČR mohou uhradit účastnický poplatek v hotovosti POUZE po předchozí dohodě s organizátory!!! V poplatku není zahrnuto stravné, účastníci se stravují individuálně na vlastní náklady.</p>
 
-<p>Zahraniční účastníci, kteří závazně potvrdí účast, mohou uhradit účastnický poplatek v hotovosti při prezenci 10. srpna 2024.</p>
+<p>Zahraniční účastníci, kteří závazně potvrdí účast, mohou uhradit účastnický poplatek v hotovosti při prezenci 9. srpna 2025.</p>
 
 <h3>5. Stornopodmínky</h3>
 
 <p>Pokud bude někdo nucen po zaplacení účastnického poplatku zrušit svou účast na LJD, bude mu navrácena částka:</p>
 
 <ol type="a">
-<li>v plné výši (pokud bude účast zrušena do 1. 7. 2024),</li> 
-<li>z uhrazeného poplatku bude stržena částka za ubytování (pokud bude účast zrušena do 1. 8. 2024),</li> 
-<li>z uhrazeného poplatku bude navrácena částka ve výši 50% (pokud bude účast zrušena po datu 1. 8. 2024)</li>
+<li>v plné výši (pokud bude účast zrušena do 1. 7. 2025),</li> 
+<li>z uhrazeného poplatku bude stržena částka za ubytování (pokud bude účast zrušena do 25. 7. 2025),</li> 
+<li>z uhrazeného poplatku bude navrácena částka ve výši 50% (pokud bude účast zrušena po datu 25. 7. 2025)</li>
 </ol>
 
 <h3>6. Prezence účastníků</h3>
 
-<p>41. LJD Karla Velebného 2024 proběhne v sobotu 10. srpna v sále restaurace Beseda od 15.00 do 20.00 hodin. Pro pozdní dojezdy bude v sále služba do 22.00 hodin, po této hodině hrozí opozdilcům nebezpečí, že v sobotu večer nebudou ubytováni!!!</p>
+<p>42. LJD Karla Velebného 2025 proběhne v sobotu 9. srpna v sále restaurace Beseda od 15.00 do 20.00 hodin. Pro pozdní dojezdy bude v sále služba do 22.00 hodin. POZOR!!! Po této hodině už nebudou opozdilci v sobotu večer ubytováni!!!</p>
 
 <p>Žádáme Vás, abyste si přivezli Vaše hudební nástroje a pomůcky, které budete v průběhu LJD potřebovat (např. fake book, studijní materiály a pultík). Zvláště upozorňujeme bubeníky, že pokud si nepřivezou nástroje, nebudou mít na co hrát ani ve třídě, ani ve skupinách. Totéž platí pro kytaristy a baskytaristy pokud jde o aparaturu. Zapůjčení bicí soupravy nebo aparatury nemůžeme zajistit. Pro pianisty jsou nástroje připraveny v učebnách, kdo ale chce, může si přivézt vlastní klávesy.</p>
 
-<p>Dopolední výuka vokalistů bude probíhat ve stejném režimu jako v minulých letech, odpoledne budou zpěváci sólisty jednotlivých kapel. Od 16:00 hodin (v době big bandových zkoušek) bude Lee Andrew Davison lektorem vokální skupiny zaměřené na interpretaci spirituálů a gospel songů.</p>
+<p>Dopolední výuka vokalistů bude probíhat ve stejném režimu jako v minulých letech, odpoledne budou zpěváci sólisty jednotlivých kapel. Od 16:00 hodin (v době big bandových zkoušek) bude Lee Andrew Davison lektorem vokální skupiny zaměřené na interpretaci spirituálů a gospel songů.</p>
 
 <p>Ve snaze racionalizovat nedělní rozdělování do souborů Vás žádáme, abyste se při sobotní prezenci předběžně zapsal(a) do kapely některého pedagoga a do jednoho ze dvou big bandů, a při zapisování uvážili, jestli chcete vystoupit ve čtvrtek nebo v pátek.</p>
 
@@ -79,9 +82,10 @@ include( 'menu.php' );
 <li>20.00 - 23.00 jam session</li>
 </ul>
 
-<p>Ve středu 14. srpna se koná na náměstí Koncert lektorů, ve čtvrtek a v pátek v sále restaurace Beseda a v kostele Nalezení svatého Kříže závěrečné koncerty účastníků 41. LJD 2024.</p>
+<p>Ve středu 13. srpna se koná na náměstí Koncert lektorů, ve čtvrtek a v pátek v sále restaurace Beseda a v kostele Nalezení svatého Kříže závěrečné koncerty účastníků 42. LJD 2025.
+</p>
 
-<p>Vyplněnou přihlášku zašlete a účastnický poplatek uhraďte do 1. června 2024! Pokud se nedohodnete na výjimce, budou po tomto datu na Vaše místo zařazeni náhradníci. Nezapomeňte uvést datum zaplacení účastnického příspěvku, případně upozornit na datum Vašeho příjezdu do Frýdlantu (pokud přijedete jindy než 10. srpna).</p>
+<p>Vyplněnou přihlášku zašlete a účastnický poplatek uhraďte do 1. června 2025! Pokud se nedohodnete na výjimce, budou po tomto datu na Vaše místo zařazeni náhradníci. Nezapomeňte uvést datum zaplacení účastnického příspěvku, případně upozornit na datum Vašeho příjezdu do Frýdlantu (pokud přijedete jindy než 9. srpna).</p>
 
 </div>
 
@@ -89,7 +93,7 @@ include( 'menu.php' );
 <li><a href="form.php">Vyplňte a zašlete přihlášku on-line</a></li>
 </ul>
 
-<p>Záštitu nad 41. Letní jazzovou dílnou Karla Velebného převzali:<br>
+<p>Záštitu nad 42. Letní jazzovou dílnou Karla Velebného převzali:<br>
 Mgr. Martin Baxa, ministr kultury ČR<br>
 a Ing Dan Ramzer, starosta Města Frýdlant</p>
 

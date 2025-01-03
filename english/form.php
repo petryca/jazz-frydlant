@@ -7,7 +7,7 @@ $send = false;
 
 if( isset( $_POST['submit'] ) ) {
 
-	if($_POST['spamq'] == '2024' || $_POST['spamq'] == '24')
+	if($_POST['spamq'] == '2025' || $_POST['spamq'] == '25')
 	{
 		$data = '';
 		$data .= "First name: {$_POST['firstname']} \n";
@@ -84,7 +84,7 @@ no<input type="radio" name="band" value="no"></td>
 <tr>
 <td class="label">Accomodation needed:</td>
 <td>
-<input type="radio" name="hotel" value="internat"> secondary-school dormitory<br />
+<input type="radio" name="hotel" value="ice-hockey-club-dorm"> ice hockey club dorm<br />
 <input type="radio" name="hotel" value="nepotřebuji"> no accomodation<br />
 </td>
 </tr>
