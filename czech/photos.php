@@ -36,6 +36,12 @@ include( 'menu.php' );
     <a href="/gallery2/26.jpg"><img src="/gallery2/26X.jpg"></a>
     <a href="/gallery2/27.jpg"><img src="/gallery2/27X.jpg"></a>
     <a href="/gallery2/28.jpg"><img src="/gallery2/28X.jpg"></a>
+    <a href="/gallery2/29.jpg"><img src="/gallery2/29X.jpg"></a>
+    <a href="/gallery2/30.jpg"><img src="/gallery2/30X.jpg"></a>
+    <a href="/gallery2/31.jpg"><img src="/gallery2/31X.jpg"></a>
+    <a href="/gallery2/32.jpg"><img src="/gallery2/32X.jpg"></a>
+    <a href="/gallery2/33.jpg"><img src="/gallery2/33X.jpg"></a>
+    <a href="/gallery2/34.jpg"><img src="/gallery2/34X.jpg"></a>
 </div>
 
 <!-- <p>Další fotky si můžete prohlédnout <a href="http://www.flickr.com/photos/97782594@N00/">klinutím zde</a></p> -->
